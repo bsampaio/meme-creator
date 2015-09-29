@@ -1,6 +1,6 @@
 # Format:
 # fileName:
-#   :presentationName
+#   :presentationName (should be in url)
 #   :sizeToWork
 #   :alias
 #   :topText
@@ -150,3 +150,9 @@ yunoguy:
   :alias: raptor
   :top: test
   :bottom: test
+allanmeme:
+  :name: allanmeme
+  :width: 600
+  :alias: allanmeme
+  :top: Allan's meme
+  :bottom:
